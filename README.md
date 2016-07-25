@@ -1,2 +1,2 @@
 # share-it
-share your ideas and codes
+share your ideas and code
